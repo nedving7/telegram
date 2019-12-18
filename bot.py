@@ -8,9 +8,9 @@ import random
 #Менять только эти 2 значения
 
 #Ваш айди в тлеграм
-admin_id = 253283148
+admin_id = 23232323
 # токен от бота
-token = '908102549:AAGiweocX3XIZUGNI8l66jBR9n18mO7JfNk'
+token = '908102549'
 #=====================
 bot = telebot.TeleBot(token)
 conn_u = sqlite3.connect('udb.sqlite3')
